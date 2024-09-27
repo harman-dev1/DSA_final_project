@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="photos">
+    <file>logo.png</file>
+    <file>LOGO LINKEDIN.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>LOGO LINKEDIN.jpg</file>
+  </qresource>
+</RCC>

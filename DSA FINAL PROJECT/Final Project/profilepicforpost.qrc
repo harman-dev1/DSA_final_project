@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>profilepicforpost.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>profilepicforpost.png</file>
+  </qresource>
+</RCC>

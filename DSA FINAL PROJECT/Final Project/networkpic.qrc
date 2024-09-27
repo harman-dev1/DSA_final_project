@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>networkpic.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>networkpic.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>networkpic.jpg</file>
+  </qresource>
+</RCC>

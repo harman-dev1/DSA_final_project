@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>messagepic.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>messagepic.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>messagepic.jpg</file>
+  </qresource>
+</RCC>
